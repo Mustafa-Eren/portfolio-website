@@ -18,7 +18,7 @@ const HeroSection = () => {
                     {/* <div className='col-span-7 place-self-center text-center sm:text-left'> */}
                     <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
                         <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600'>
-                            Hello, I'm {" "}
+                            Hello, I&apos;m {" "}
                         </span>
                         <br />
                         <TypeAnimation
@@ -40,7 +40,7 @@ const HeroSection = () => {
                     <p className='text-[#ADB7BE] text-base  sm:text-lg mb-6 lg:text-xl'>
                         Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.
                         Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak
-                        üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı
+                        üzere bir yazı galerisini alarak karıştırdığı 1500&apos;lerden beri endüstri standardı
                         sahte metinler olarak kullanılmıştır.
                     </p>
                     <div>
